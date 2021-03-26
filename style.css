@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+h1 {
+  color: rgb(255, 255, 255);  
+  font-size: 75px
+}
+h2 {
+  color: rgb(255, 255, 255)
+}
+button{
+  background-color: darkcyan;
+  height: 50px;
+  width: 500px;
+  font-size: 20px;
+  font-family:'Times New Roman', Times, serif
+}
